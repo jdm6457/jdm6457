@@ -13,7 +13,7 @@
 
 ---
 
-### 📌 Featured Open Source Project
+### 📌 Featured Open Source Projects
 
 #### 🤖 [n8n-rag-suite](https://github.com/jdm6457/n8n-rag-suite)
 > An air-gapped, local RAG suite featuring a ~10ms GitHub Commit SHA guard, 7-regex secret sanitizer, and an AI Engineering Copilot routing across official n8n docs (~14.6k vectors) and community templates (~749k vectors).
