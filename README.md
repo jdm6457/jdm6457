@@ -34,7 +34,7 @@ Infrastructure   │ Enterprise Networking (CCIE #6457), Docker/Containers, Linu
 
 ### ⚡ Beyond the Terminal
 * 🚤 **On the Water**: Boating and waterskiing (active with the Golden Triangle Waterski Club).
-* 🔧 **Hands-on Mechanical**: DIY home improvement, automotive upgrades, and mechanical restorations ( antique clock overhauls & motor rebuilds).
+* 🔧 **Hands-on Mechanical**: DIY home improvement, motorcycle restoration & customization, boating projects/maintenance & more.
 
 ---
 
