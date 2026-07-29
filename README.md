@@ -20,6 +20,9 @@
 > 
 > 🤗 **Dataset Snapshot**: [Hugging Face 749k Template Vector Seed](https://huggingface.co/datasets/jdm6457/n8n-rag-suite-snapshot)
 
+### ⚡ [ai-stack-template](https://github.com/jdm6457/ai-stack-template)
+> Reusable full-stack boilerplate and containerized development template for rapidly scaffolding AI agents, local LLM integrations, and containerized microservices.
+
 ---
 
 ### 🛠️ Core Tech Stack & Capabilities
