@@ -1,8 +1,8 @@
 # About me
 
-# 👋 Hi, I'm John Moorhead (CCIE #6457)
+# 👋 Hi, I'm John Moorhead...
 
-**Principal Enterprise Solutions Architect & Systems Engineer** with 30+ years of experience designing, scaling, and optimizing enterprise infrastructure, hybrid-cloud boundaries, and self-hosted AI automation stacks.
+**Enterprise Solutions Engineer | Principal Architect | CCIE #6457** with 30+ years of experience designing, scaling, and optimizing enterprise infrastructure, hybrid-cloud boundaries, and self-hosted AI automation stacks.
 
 ---
 
